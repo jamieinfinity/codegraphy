@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Codegraphy Project]]></title>
+  <link href="http://jamieinfinity.github.io/codegraphy/atom.xml" rel="self"/>
+  <link href="http://jamieinfinity.github.io/codegraphy/"/>
+  <updated>2014-05-26T16:57:05-05:00</updated>
+  <id>http://jamieinfinity.github.io/codegraphy/</id>
+  <author>
+    <name><![CDATA[Jamie Williams]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Hello Blog]]></title>
+    <link href="http://jamieinfinity.github.io/codegraphy/blog/2014/05/26/hello-blog/"/>
+    <updated>2014-05-26T16:21:24-05:00</updated>
+    <id>http://jamieinfinity.github.io/codegraphy/blog/2014/05/26/hello-blog</id>
+    <content type="html"><![CDATA[<p>This is some content.</p>
+]]></content>
+  </entry>
+  
+</feed>
